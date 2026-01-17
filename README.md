@@ -10,8 +10,6 @@ Hệ thống số lượng người ra vào bằng Yolov8
 
 ---
 
----
-
 ## 🛠 Yêu cầu
 
 - Python 3.8 trở lên
